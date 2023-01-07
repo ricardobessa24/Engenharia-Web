@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gJI+cAUuJcNDg7Qy3QvJSqS+PuqPxWp3/NYjJA85WIxf/J2VhWtz/MYisjShuGR2S7Df69K9AClwlXTPMtJibw==",
+  "success": true,
+  "projectFilePath": "D:\\Universidade\\EW\\Antigo\\Tutorial11\\Tutorial11\\Tutorial11.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ricardo Bessa\\.nuget\\packages\\jquery\\1.8.0\\jquery.1.8.0.nupkg.sha512",
+    "C:\\Users\\Ricardo Bessa\\.nuget\\packages\\microsoft.jquery.unobtrusive.ajax\\3.2.6\\microsoft.jquery.unobtrusive.ajax.3.2.6.nupkg.sha512"
+  ],
+  "logs": []
+}
